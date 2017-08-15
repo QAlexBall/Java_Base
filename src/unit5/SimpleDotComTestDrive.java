@@ -1,6 +1,5 @@
 package unit5;
 
-
 import java.util.Random;
 
 public class SimpleDotComTestDrive {
