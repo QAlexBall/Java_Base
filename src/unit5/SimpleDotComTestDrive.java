@@ -17,12 +17,12 @@ public class SimpleDotComTestDrive {
         boolean isAlive = true;
 
         while(isAlive == true) {
-            String guess = helper.getUserInput("enter a number: ");
+            String guess = helper.getUserInput("enter a number");
             String result = theDotCom.checkYourself(guess);
             numOfGuesses++;
             if (result.equals("kill")) {
                 isAlive = false;
-                System.out.println("you took " + numOfGuesses + "guessees");
+                System.out.println("you took " + numOfGuesses + " guessees");
             }
         }
         /*

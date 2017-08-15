@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 public class GameHelper {
     public String getUserInput(String prompt) {
         String inputLine = null;
-        System.out.print(prompt + "   ");
+        System.out.print(prompt + " : ");
         try {
             BufferedReader is = new BufferedReader(new InputStreamReader(System.in));
             inputLine = is.readLine();

@@ -1,8 +1,8 @@
 package unit5;
 
 public class SimpleDotCom {
-    int [] locationCells;
-    int numOfHits = 0;
+    private int [] locationCells;
+    private int numOfHits = 0;
 
     public void setLocationCells(int[] locationCells) {
         this.locationCells = locationCells;
