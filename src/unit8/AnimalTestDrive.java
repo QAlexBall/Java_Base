@@ -29,7 +29,12 @@ public class AnimalTestDrive {
         MyAnimalList list = new MyAnimalList();
         Dog a = new Dog();
         Cat c = new Cat();
+        Animal d = new Dog();
         list.add(a);
         list.add(c);
+        list.add(d);
+        Object o = new Object();
+        System.out.println(a.getClass() + " " + a.hashCode() + " " + a.toString());
+        System.out.println(o.getClass() + " " + o.hashCode() + " " + o.toString());
     }
 }
