@@ -1,4 +1,4 @@
-package unit6;
+package unit06;
 
 import java.io.BufferedReader;
 import java.io.IOException;

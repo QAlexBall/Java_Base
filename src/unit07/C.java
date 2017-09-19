@@ -1,4 +1,4 @@
-package unit7;
+package unit07;
 
 public class C extends B {
     void m1() {

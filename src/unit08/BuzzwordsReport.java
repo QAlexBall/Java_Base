@@ -3,7 +3,7 @@ Author: QAlexBall
 Date: 2017/9/06
 Content: test super called parents class methond
  */
-package unit8;
+package unit08;
 
 abstract class Report {
     void runReport() {

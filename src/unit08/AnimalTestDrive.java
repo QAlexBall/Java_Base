@@ -3,7 +3,7 @@ Author: QAlexBall
 Date: 2017/8/27
 Contents: create an general animal list "MyAnimalList" and test
  */
-package unit8;
+package unit08;
 class MyAnimalList {
     private Animal[] animals = new Animal[5];// save the animals array object
     private int nextIndex = 0;

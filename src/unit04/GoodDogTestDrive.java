@@ -1,4 +1,4 @@
-package unit4;
+package unit04;
 class GoodDog {
 
     private int size;

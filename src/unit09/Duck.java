@@ -3,7 +3,7 @@ Author: QAlexBall
 Date: 2017/9/06
 Content: test super called parents class methond
  */
-package unit9;
+package unit09;
 
 public class Duck {
     int pounds = 6;

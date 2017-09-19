@@ -1,6 +1,4 @@
-package unit5;
-
-import java.util.Random;
+package unit05;
 
 public class SimpleDotComTestDrive {
     public static void main(String []args) {

@@ -4,7 +4,7 @@ Date: 2017/9/06
 Content: test super called parents class methond
  */
 
-package unit9;
+package unit09;
 
 public class TestDuck {
     public static void main(String []args) {
