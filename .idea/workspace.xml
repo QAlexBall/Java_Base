@@ -7,38 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c732465-1e1e-49d0-8275-bf2fdbb6677d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/unit12/MyDrawPanel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/unit12/SimpleGui1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/unit12/SimpleGui1B.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HeadFirstJava/unit4/Clock.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HeadFirstJava/unit4/ClockTestDrive.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HeadFirstJava/unit4/GoodDog.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HeadFirstJava/unit4/GoodDogTestDrive.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HeadFirstJava/unit4/XCopy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HeadFirstJava/unit5/GameHelper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HeadFirstJava/unit5/SimpleDotCom.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HeadFirstJava/unit5/SimpleDotComTestDrive.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HeadFirstJava/unit6/DotCom.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HeadFirstJava/unit6/DotComBust.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HeadFirstJava/unit6/GameHelper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HeadFirstJava/unit7/A.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HeadFirstJava/unit7/B.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HeadFirstJava/unit7/C.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HeadFirstJava/unit8/Animal.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HeadFirstJava/unit8/AnimalTestDrive.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HeadFirstJava/unit8/BuzzwordsReport.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HeadFirstJava/unit8/Cat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HeadFirstJava/unit8/Dog.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HeadFirstJava/unit8/MyAnimalList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HeadFirstJava/unit8/Report.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HeadFirstJava/unit9/Bear.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HeadFirstJava/unit9/Bees.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HeadFirstJava/unit9/Duck.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HeadFirstJava/unit9/Honey.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HeadFirstJava/unit9/Kit.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HeadFirstJava/unit9/Raccoon.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HeadFirstJava/unit9/TestDuck.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -60,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/src/unit12/SimpleGui1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="304">
-              <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+              <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -79,8 +47,8 @@
       <file leaf-file-name="SimpleGui1B.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/unit12/SimpleGui1B.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="893">
-              <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+            <state relative-caret-position="501">
+              <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="imports" expanded="true" />
@@ -167,10 +135,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -193,6 +159,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -440,12 +408,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="384" y="48" width="1315" height="780" extended-state="6" />
+    <frame x="-1" y="-35" width="1368" height="804" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32659408" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -456,7 +423,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16969219" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16515152" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -467,6 +434,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24942791" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32659408" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -789,15 +757,15 @@
     <entry file="file://$PROJECT_DIR$/src/unit12/SimpleGui1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
-          <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+          <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/unit12/SimpleGui1B.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="893">
-          <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+        <state relative-caret-position="501">
+          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
