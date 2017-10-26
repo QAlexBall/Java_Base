@@ -1,0 +1,34 @@
+package unit12;
+
+import javax.sound.midi.*;
+
+public class MiniMusicPlayer2 implements ControllerEventListener {
+
+    public static void main(String[] args) {
+        MiniMusicPlayer2 mini = new MiniMusicPlayer2();
+        mini.go();
+    }
+
+    private void go() {
+        try {
+            Sequencer sequencer = MidiSystem.getSequencer();
+            sequencer.open();
+
+            int[] eventsIWant = {127};
+            sequencer.addControllerEventListener(this, eventsIWant);
+
+            Sequence seq = new Sequence(Sequence.PPQ, 4);
+            Track track
+            for (int i = 5; i < 60; i += 4) {
+
+            }
+        } catch (Exception ex) {
+            ex.printStackTrace();
+        }
+    }
+
+    @Override
+    public void controlChange(ShortMessage event) {
+        System.out.println("la");
+    }
+}
