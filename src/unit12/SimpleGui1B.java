@@ -40,8 +40,6 @@ public class SimpleGui1B implements ActionListener {
 
     @Override
     public void actionPerformed(ActionEvent e) {
-
         button.setText("i've been clicked");
-
     }
 }

@@ -18,7 +18,7 @@ public class MiniMusicPlayer2 implements ControllerEventListener {
             sequencer.addControllerEventListener(this, eventsIWant);
 
             Sequence seq = new Sequence(Sequence.PPQ, 4);
-            Track track
+            Track track;
             for (int i = 5; i < 60; i += 4) {
 
             }
@@ -30,5 +30,15 @@ public class MiniMusicPlayer2 implements ControllerEventListener {
     @Override
     public void controlChange(ShortMessage event) {
         System.out.println("la");
+    }
+
+    public MidiEvent makeEvent(int comd, int chan, int one, int two, int tick) {
+        MidiEvent event = null;
+        try {
+            ShortMessage a = new ShortMessage();
+            a.setMessage(comd, chan, one, two);
+            event = new MidiEvent(a, tick);
+        } catch (Exception e) { }
+        return event;
     }
 }
