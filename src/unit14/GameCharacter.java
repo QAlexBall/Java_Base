@@ -8,9 +8,9 @@ public class GameCharacter implements Serializable {
     String[] weapons;
 
     public GameCharacter(int power, String type, String[] weapons) {
-        power = power;
-        type = type;
-        weapons = weapons;
+        this.power = power;
+        this.type = type;
+        this.weapons = weapons;
     }
 
     public int getPower() {
