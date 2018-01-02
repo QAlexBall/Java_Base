@@ -6,23 +6,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c732465-1e1e-49d0-8275-bf2fdbb6677d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/JavaIOSystem/DirList.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/javatest09/EcmDef.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/javatest09/Testfinally.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/javatest09/mp3Copy.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/javatest09/testF.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/javatest09/梨花又开放.mp3" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/javatest10/Student.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/javatest10/demo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/javatest10/testOW.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/unit14/WriteAFile.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/unit15/DailyAdviceClient.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/unit15/DailyAdviceServer.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/HeadFirstJava.iml" afterPath="$PROJECT_DIR$/HeadFirstJava.iml" />
-      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstJava/unit11/TestExceptions.class" afterPath="$PROJECT_DIR$/out/production/HeadFirstJava/unit11/TestExceptions.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstJava/unit14/GameCharacter.class" afterPath="$PROJECT_DIR$/out/production/HeadFirstJava/unit14/GameCharacter.class" />
-      <change beforePath="$PROJECT_DIR$/src/unit14/GameCharacter.java" afterPath="$PROJECT_DIR$/src/unit14/GameCharacter.java" />
-      <change beforePath="$PROJECT_DIR$/src/unit14/GameSaverTest.java" afterPath="$PROJECT_DIR$/src/unit14/GameSaverTest.java" />
+      <change beforePath="$PROJECT_DIR$/src/unit15/DailyAdviceClient.java" afterPath="$PROJECT_DIR$/src/unit15/DailyAdviceClient.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,59 +24,7 @@
     </SUITE>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="WriteAFile.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/unit14/WriteAFile.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="testOW.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javatest10/testOW.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="14" lean-forward="false" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DailyAdviceClient.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/unit15/DailyAdviceClient.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javatest10/Student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="53" column="1" lean-forward="true" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
-              <folding>
-                <element signature="e#342#343#0" expanded="true" />
-                <element signature="e#368#369#0" expanded="true" />
-                <element signature="e#403#404#0" expanded="true" />
-                <element signature="e#433#434#0" expanded="true" />
-                <element signature="e#464#465#0" expanded="true" />
-                <element signature="e#491#492#0" expanded="true" />
-                <element signature="e#531#532#0" expanded="true" />
-                <element signature="e#563#564#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -112,7 +46,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/unit5/GameHelper.java" />
         <option value="$PROJECT_DIR$/src/unit5/SimpleDotComTestDrive.java" />
         <option value="$PROJECT_DIR$/src/unit6/DotCom.java" />
         <option value="$PROJECT_DIR$/src/unit6/DotComBust.java" />
@@ -162,6 +95,7 @@
         <option value="$PROJECT_DIR$/src/javatest10/demo.java" />
         <option value="$PROJECT_DIR$/src/javatest10/testOW.java" />
         <option value="$PROJECT_DIR$/src/javatest10/Student.java" />
+        <option value="$PROJECT_DIR$/src/unit15/DailyAdviceServer.java" />
         <option value="$PROJECT_DIR$/src/unit15/DailyAdviceClient.java" />
       </list>
     </option>
@@ -191,6 +125,8 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -208,8 +144,6 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -470,7 +404,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -485,7 +418,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2065053" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20953101" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -538,7 +471,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/unit06/GameHelper.java" />
     <entry file="file://$PROJECT_DIR$/src/unit08/AnimalTestDrive.java" />
     <entry file="file://$PROJECT_DIR$/src/unit08/BuzzwordsReport.java" />
     <entry file="file://$PROJECT_DIR$/src/unit06/DotComBust.java" />
@@ -687,9 +619,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="665">
           <caret line="35" column="5" lean-forward="false" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -747,14 +676,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="10" lean-forward="true" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/javatest10/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="53" column="1" lean-forward="true" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
+        <state relative-caret-position="855">
+          <caret line="53" column="1" lean-forward="false" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
           <folding>
             <element signature="e#342#343#0" expanded="true" />
             <element signature="e#368#369#0" expanded="true" />
@@ -772,7 +700,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -780,14 +707,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="445">
           <caret line="38" column="9" lean-forward="false" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/unit14/WriteAFile.java">
+    <entry file="file://$PROJECT_DIR$/src/unit15/DailyAdviceServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        <state relative-caret-position="350">
+          <caret line="28" column="33" lean-forward="true" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/unit15/DailyAdviceClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -802,11 +738,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/unit15/DailyAdviceClient.java">
+    <entry file="file://$PROJECT_DIR$/src/unit14/WriteAFile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-          <folding />
+        <state relative-caret-position="304">
+          <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
