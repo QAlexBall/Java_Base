@@ -22,7 +22,7 @@ public class DailyAdviceServer {
                 PrintWriter writer = new PrintWriter(sock.getOutputStream());
                 String advice = getAdvice();
                 writer.println(advice);
-                writer.close();
+                // writer.close();
                 System.out.println(advice);
             }
         } catch (IOException ex) {
