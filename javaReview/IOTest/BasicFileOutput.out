@@ -1,0 +1,31 @@
+1: import java.io.*;
+2: 
+3: public class BasicFileOutput {
+4: 	static String file = "BasicFileOutput.out";
+5: 	public static void main(String[] args) 
+6: 	throws IOException {
+7: 		BufferedReader br = new BufferedReader(
+8: 			new StringReader(
+9: 				BufferInputFile.read("BasicFileOutput.java")));
+10: 		/**
+11: 		 * [PrintWriter description]
+12: 		 * the func for PrintWriter achieved BufferedWriter and FileWriter? 
+13: 		 * slove:
+14: 		 * PrintWriter Added auxiliary constructor
+15: 		 * @param  file [description]
+16: 		 * @return      [description]
+17: 		 */
+18: 		PrintWriter pw = new PrintWriter(file);
+19: 		/*
+20: 		PrintWriter pw = new PrintWriter(
+21: 			new BufferedWriter(new FileWriter(file)));
+22: 		// the same result with line 16
+23: 		*/
+24: 		int lineCount = 1;
+25: 		String s;
+26: 		while((s = br.readLine()) != null)
+27: 			pw.println(lineCount++ + ": " + s);
+28: 		pw.close();
+29: 		System.out.println(BufferInputFile.read(file));
+30: 	}
+31: }
